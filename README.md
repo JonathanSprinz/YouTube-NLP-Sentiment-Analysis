@@ -1,7 +1,5 @@
 # YouTube NLP Sentiment Analysis — ChatGPT Comments
 
-**LSE Data Analytics and Machine Learning
-
 ## Overview
 This project performs sentiment analysis on live YouTube comments extracted 
 via the YouTube Data API v3. The analysis focuses on public sentiment towards 
